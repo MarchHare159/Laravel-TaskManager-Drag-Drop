@@ -99,3 +99,7 @@ php artisan serve
 ```
 
 Visit http://localhost:8000 in your web browser to access the application.
+
+<img src="https://github.com/loonglim/Laravel-TaskManager/blob/main/screenshots/1.png?raw=true" alt="screenshot/1">
+<img src="https://github.com/loonglim/Laravel-TaskManager/blob/main/screenshots/2.png?raw=true" alt="screenshot/2">
+<img src="https://github.com/loonglim/Laravel-TaskManager/blob/main/screenshots/3.png?raw=true" alt="screenshot/3">

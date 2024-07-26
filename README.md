@@ -48,7 +48,7 @@ git clone https://github.com/loonglim/Laravel-TaskManager.git
 ### Go to the project directory
 
 ```bash
-cd taskmanager
+cd Laravel-TaskManager
 ```
 
 ### Install PHP Dependencies
